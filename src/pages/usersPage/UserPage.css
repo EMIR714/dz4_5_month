@@ -1,0 +1,11 @@
+.get-users-button {
+    background-color: forestgreen;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 0.9em;
+    width: 90px;
+    margin: 0 auto 0 auto;
+  }
